@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>pl Enter Email</b></label>
-    <input type="textx" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Ente Email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
